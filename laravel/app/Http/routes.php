@@ -18,4 +18,11 @@ Route::get('/', function () {
 });
 
 
-Route::get('/', 'PagesController@index');
+//Route::get('/', 'PagesController@index');
+
+
+Route::get('/', 'PagesController@home');
+
+Route::get('/about', 'PagesController@about');
+
+Route::get('/contact', 'PagesController@contact');

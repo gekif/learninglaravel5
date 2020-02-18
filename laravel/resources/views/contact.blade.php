@@ -43,8 +43,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
-                <div class="quote">Piye</div>
+                <div class="title">Contact Page</div>
+                <div class="quote">About Contact Page</div>
             </div>
         </div>
     </body>
