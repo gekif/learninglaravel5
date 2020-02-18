@@ -33,12 +33,18 @@
             .title {
                 font-size: 96px;
             }
+
+            .quote {
+                font-size: 24px;
+            }
+
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                <div class="quote">Piye</div>
             </div>
         </div>
     </body>
