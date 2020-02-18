@@ -1,0 +1,3 @@
+Adding more page to our first website
+1. Create our first Controller
+php artisan make:controller PagesController --resource

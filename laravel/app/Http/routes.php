@@ -14,5 +14,8 @@
 Route::get('/', function () {
 //    return view('welcome');
 
-    return 'Welcome to the homepage';
+//    return 'Welcome to the homepage';
 });
+
+
+Route::get('/', 'PagesController@index');
